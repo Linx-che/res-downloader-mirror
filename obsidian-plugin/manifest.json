@@ -1,9 +1,9 @@
 {
   "id": "obsidian-res-downloader-monitor",
   "name": "res-downloader Monitor",
-  "version": "1.0.0",
+  "version": "3.1.0",
   "minAppVersion": "0.15.0",
-  "description": "实时监控 res-downloader 下载状态，在 Obsidian 中快速触发下载",
+  "description": "实时监控 res-downloader 下载状态，在 Obsidian 中快速触发下载 - 支持 v3.1.3+ 功能",
   "author": "Linx-che",
   "authorUrl": "https://github.com/Linx-che",
   "fundingUrl": "",
